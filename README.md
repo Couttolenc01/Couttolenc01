@@ -1,4 +1,4 @@
-# <img src=  "https://media.giphy.com/media/UX5dUR28BMEFaGdGb9/giphy.gif" width="100"/> Bienvenido a mi GitHub, aqui comparto mis proyectos.  No estoy solo, ¡mi bulldog Otto también te da la bienvenida! 🐾🐶
+# <img src=  "https://media.giphy.com/media/UX5dUR28BMEFaGdGb9/giphy.gif" width="100"/> Bienvenido a mi GitHub, aquí comparto mis proyectos.  No estoy solo, ¡mi bulldog Otto también te da la bienvenida! 🐾🐶
 
 
 ### Skills
